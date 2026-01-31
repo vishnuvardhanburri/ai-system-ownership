@@ -1,0 +1,6 @@
+
+Authentication and infrastructure are external and stable
+
+n8n orchestrates execution but does not own business logic
+
+AI is treated as a dependency, not a source of truth
